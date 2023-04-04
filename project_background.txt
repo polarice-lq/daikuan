@@ -1,0 +1,14 @@
+网站背景：
+
+
+此网站仅为机器学习作业所构建，预测成功率为80.1%，有一定参考意义，但具体请以现实为主。 
+
+
+初始密码：123
+
+项目成员：luo-one、hao、luo-two、liu、li、li、zhao、li、zheng
+
+
+特别感谢：大景巴8、Teacher Fu
+
+数据库：https://aistudio.baidu.com/aistudio/datasetdetail/150031
